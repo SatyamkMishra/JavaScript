@@ -1,0 +1,68 @@
+/* .div{
+    height : 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-flex;
+    flex-wrap: wrap;
+     margin-top: 300px; 
+    margin-left: 90px;
+    background-color: red;;
+} */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px; 
+}
+
+.div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.red{
+    background-color: red;
+}
+.greenyellow{
+    background-color: greenyellow;
+}
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+.olivedrab{
+    background-color: olivedrab;
+}
+.violet{
+    background-color: violet;
+}
+.aquamarine{
+    background-color: aquamarine;
+}
+.magenta{
+    background-color: magenta;
+}
+.silver{
+    background-color: silver;
+}
+.chocolate{
+    background-color: chocolate;
+}
